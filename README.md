@@ -1,6 +1,6 @@
-# STAE-Net: Structural–Temporal Autoencoder Network for Wireless Intrusion Detection
+# STAE-Net: Structural–Temporal Autoencoder Network for Network Traffic Anomaly Detection
 
-This repository provides a complete implementation of **STAE-Net**, a structural–temporal autoencoder framework for wireless intrusion detection.  
+This repository provides a complete implementation of **STAE-Net**, a structural–temporal autoencoder framework for network traffic anomaly detection.  
 The pipeline is designed for the **AWID3** dataset and includes:
 
 - Sequential AWID3 data loading & Normal-only constrained splitting  
